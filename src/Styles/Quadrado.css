@@ -1,0 +1,12 @@
+.quadrado {
+    border: 4px solid #942F6D;
+    border-radius: 0.8rem;
+    width: 10rem;
+    height: 10rem;
+    font-size: 4.5rem;
+    color: #942F6D;
+}
+
+.quadrado:hover {
+    cursor: pointer;
+}
